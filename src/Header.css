@@ -1,0 +1,17 @@
+.header {
+    padding-top: 30px;
+    font-size: 22px;
+    /* font-family: 'Indie Flower', cursive; */
+    /* font-family: 'Open Sans', sans-serif; */
+    /* font-family: 'Handlee', cursive; */
+    font-family: 'Syncopate', sans-serif;
+    text-shadow: 2px 2px 8px grey;
+    background-color: #beb0b0;
+    color: white;
+}
+
+/* background-image: url('./SF3.JPG');
+background-repeat: no-repeat, repeat;
+background-position: center; 
+background-size: cover;
+opacity: 40%; */
